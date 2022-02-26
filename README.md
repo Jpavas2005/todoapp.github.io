@@ -1,4 +1,4 @@
 # todoapp.github.io
 this is a repository of a simple homework application made by jpavas
 
-es una  aplicacio de tareas simples hecha en vainilla js , html5 y css3 con su framework  el cual es boostrap 5
+IT IS A PROJECT THAT WAS BASICLY MADE WITH THE TECHNOLOGIES OF HTML, CSS, AND VAINILLA JAVASCRIPT TOGETHER WITH THE FRAMEWORK OF CSS AND JS BOOTSTRAP 5
